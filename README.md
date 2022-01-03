@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently learning frontend and mobile app development (JavaScript | React | React Native)
-- 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
+- 🌱 I’m currently learning backend development (Node.js | Django)
 - 💬 Ask me about anything that you want to learn 
 
 ## 👨👩 Social
