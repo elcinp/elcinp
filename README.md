@@ -1,7 +1,7 @@
 ## Hi there. I'm Elcin...👋
 
 
-- 🔭 I’m currently learning frontend and mobile app development (JavaScript | React | React Native)
+- 🔭 I’m currently learning frontend and mobile app development (JavaScript | React | Next.js)
 - 🌱 I’m currently learning backend development (Node.js | Django)
 - 💬 Ask me about anything that you want to learn 
 
