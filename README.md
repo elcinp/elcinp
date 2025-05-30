@@ -1,6 +1,12 @@
 <h1>Hi 👋, I'm Elcin Pars</h1>
 <p>I’m a frontend developer based in Turkey with 3–4 years of experience building scalable and user-friendly web applications. I have a strong eye for UI/UX and enjoy working with modern frameworks and design systems. </p>
 
+## 🎯 Current Focus
+I'm currently expanding my skills in:
+- Advanced React patterns
+- Backend basics with Node.js and Prisma
+- Building full-stack apps with Next.js
+
 ## 👨👩 Social
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elcin-pars/)
